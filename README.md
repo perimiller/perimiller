@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @perimiller
+- 👋 Hi, I’m Tree Sister.
 - 👀 I’m interested in Web Design and Development.
 - 🌱 I’m currently brushing-up on building websites with html, css and Github; through the site codecademy.com.
 - 💞️ I’m looking to collaborate on code for building websites.
